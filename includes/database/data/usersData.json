@@ -1,0 +1,2709 @@
+{
+    "61105366": {
+        "userID": "61105366",
+        "name": "Phan Hoang",
+        "vanity": "vhoanq856",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721879300456
+        },
+        "data": {
+            "timestamp": 1721879300456
+        },
+        "lastUpdate": 1721879300456
+    },
+    "593577006": {
+        "userID": "593577006",
+        "name": "Trung Kiênツ",
+        "vanity": "593577006",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721477822028
+        },
+        "data": {
+            "timestamp": 1721477822028
+        },
+        "lastUpdate": 1721477822028
+    },
+    "1069390137": {
+        "userID": "1069390137",
+        "name": "Nguyễn Thùy Ling",
+        "vanity": "van.elke.1",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721886241784
+        },
+        "data": {
+            "timestamp": 1721886241784
+        },
+        "lastUpdate": 1721886241784
+    },
+    "1128062123": {
+        "userID": "1128062123",
+        "name": "Trương Ngọc Ánh",
+        "vanity": "lane.keaton",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721881261158
+        },
+        "data": {
+            "timestamp": 1721881261158
+        },
+        "lastUpdate": 1721881261158
+    },
+    "61561753304881": {
+        "userID": "61561753304881",
+        "name": "Ngọc Từ",
+        "vanity": "hoangngoctucdbk12345vippro",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 51141,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721407787319
+        },
+        "data": {
+            "timestamp": 1721407787319
+        },
+        "lastUpdate": 1721407787319,
+        "lastDailyClaim": 1722483536499,
+        "coins": 0,
+        "pay_limit_2024-07-25_61561753304881": 17,
+        "pay_limit_2024-07-26_61561753304881": 3,
+        "pay_limit_2024-07-31_61561753304881": 2,
+        "pay_limit_2024-08-01_61561753304881": 41
+    },
+    "100040203282108": {
+        "userID": "100040203282108",
+        "name": "Đỗ Thành Đạt",
+        "vanity": "100040203282108",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721407787932
+        },
+        "data": {
+            "timestamp": 1721407787932
+        },
+        "lastUpdate": 1721407787932
+    },
+    "100029043375434": {
+        "userID": "100029043375434",
+        "name": "Hoàng Ngọc Từ",
+        "vanity": "100029043375434",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 15269,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721407829312
+        },
+        "data": {
+            "timestamp": 1721407829312
+        },
+        "lastUpdate": 1721407829312,
+        "lastDailyClaim": 1721694501617,
+        "pay_limit_2024-07-25_100029043375434": 1,
+        "pay_limit_2024-08-01_100029043375434": 2
+    },
+    "100086670220627": {
+        "userID": "100086670220627",
+        "name": "Thế Dương",
+        "vanity": "Natsumionmyneck4444",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721407850498
+        },
+        "data": {
+            "timestamp": 1721407850498
+        },
+        "lastUpdate": 1721407850498
+    },
+    "100091733506986": {
+        "userID": "100091733506986",
+        "name": "Cá",
+        "vanity": "100091733506986",
+        "gender": 6,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721407885130
+        },
+        "data": {
+            "timestamp": 1721407885130
+        },
+        "lastUpdate": 1721407885130
+    },
+    "100046739981416": {
+        "userID": "100046739981416",
+        "name": "Hùg Mel Bel",
+        "vanity": "100046739981416",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721449679007
+        },
+        "data": {
+            "timestamp": 1721449679007
+        },
+        "lastUpdate": 1721449679007,
+        "lastDailyClaim": 1722486858528,
+        "coins": 420,
+        "pay_limit_2024-07-23_100046739981416": 6,
+        "pay_limit_2024-07-24_100046739981416": 2,
+        "pay_limit_2024-07-25_100046739981416": 2,
+        "pay_limit_2024-07-26_100046739981416": 5,
+        "pay_limit_2024-08-01_100046739981416": 1
+    },
+    "100014843821049": {
+        "userID": "100014843821049",
+        "name": "Kem Đá",
+        "vanity": "triujmanxx",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721449806845
+        },
+        "data": {
+            "timestamp": 1721449806845
+        },
+        "lastUpdate": 1721449806845,
+        "lastDailyClaim": 1721451695925
+    },
+    "100006842495827": {
+        "userID": "100006842495827",
+        "name": "Đàm Hưng",
+        "vanity": "hungdam.1603",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721449904195
+        },
+        "data": {
+            "timestamp": 1721449904195
+        },
+        "lastUpdate": 1721449904195,
+        "lastDailyClaim": 1722484030378,
+        "pay_limit_2024-07-21_100006842495827": 4,
+        "coins": 100,
+        "pay_limit_2024-07-22_100006842495827": 1,
+        "pay_limit_2024-07-25_100006842495827": 1
+    },
+    "100068198850441": {
+        "userID": "100068198850441",
+        "name": "Duy Quang Chad",
+        "vanity": "100068198850441",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 5560,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721450033047
+        },
+        "data": {
+            "timestamp": 1721450033047
+        },
+        "lastUpdate": 1721450033047,
+        "lastDailyClaim": 1721964700019,
+        "pay_limit_2024-07-21_100068198850441": 1,
+        "coins": 40,
+        "pay_limit_2024-07-25_100068198850441": 1
+    },
+    "100030326924778": {
+        "userID": "100030326924778",
+        "name": "Ng Khanh Ngoc",
+        "vanity": "sweetie.grapesoda",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721450430189
+        },
+        "data": {
+            "timestamp": 1721450430189
+        },
+        "lastUpdate": 1721450430189
+    },
+    "100070417770127": {
+        "userID": "100070417770127",
+        "name": "Nguyễn Phúc",
+        "vanity": "100070417770127",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721451177120
+        },
+        "data": {
+            "timestamp": 1721451177120
+        },
+        "lastUpdate": 1721451177120,
+        "lastDailyClaim": 1721800415124
+    },
+    "61555962015473": {
+        "userID": "61555962015473",
+        "name": "Tân Do",
+        "vanity": "61555962015473",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721452856155
+        },
+        "data": {
+            "timestamp": 1721452856155
+        },
+        "lastUpdate": 1721452856155
+    },
+    "61557596691913": {
+        "userID": "61557596691913",
+        "name": "Bún Đậu",
+        "vanity": "61557596691913",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721453942861
+        },
+        "data": {
+            "timestamp": 1721453942861
+        },
+        "lastUpdate": 1721453942861
+    },
+    "100076412687941": {
+        "userID": "100076412687941",
+        "name": "Hoàng Đinh",
+        "vanity": "h.dinh.23",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721454279823
+        },
+        "data": {
+            "timestamp": 1721454279823
+        },
+        "lastUpdate": 1721454279823
+    },
+    "100072253830985": {
+        "userID": "100072253830985",
+        "name": "Lâm Tuyết Đình",
+        "vanity": "100072253830985",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721459411849
+        },
+        "data": {
+            "timestamp": 1721459411849
+        },
+        "lastUpdate": 1721459411849
+    },
+    "100019919318045": {
+        "userID": "100019919318045",
+        "name": "Nhật Jav",
+        "vanity": "lethaidinhnhat",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721463106946
+        },
+        "data": {
+            "timestamp": 1721463106946
+        },
+        "lastUpdate": 1721463106946
+    },
+    "100092325757607": {
+        "userID": "100092325757607",
+        "name": "Từ Mộng Viên",
+        "vanity": "100092325757607",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 6348,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721463351357
+        },
+        "data": {
+            "timestamp": 1721463351357
+        },
+        "lastUpdate": 1721463351357,
+        "lastDailyClaim": 1722483622202,
+        "pay_limit_2024-07-31_100092325757607": 1,
+        "pay_limit_2024-08-01_100092325757607": 7
+    },
+    "100045324197655": {
+        "userID": "100045324197655",
+        "name": "Lê Hùng",
+        "vanity": "100045324197655",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465409395
+        },
+        "data": {
+            "timestamp": 1721465409395
+        },
+        "lastUpdate": 1721465409395
+    },
+    "61551077529671": {
+        "userID": "61551077529671",
+        "name": "Khánh Băng",
+        "vanity": "61551077529671",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465537656
+        },
+        "data": {
+            "timestamp": 1721465537656
+        },
+        "lastUpdate": 1721465537656
+    },
+    "61552258901726": {
+        "userID": "61552258901726",
+        "name": "Bảo Nguyên",
+        "vanity": "61552258901726",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465537869
+        },
+        "data": {
+            "timestamp": 1721465537869
+        },
+        "lastUpdate": 1721465537869
+    },
+    "61554160139365": {
+        "userID": "61554160139365",
+        "name": "Crot Cte",
+        "vanity": "61554160139365",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465537998
+        },
+        "data": {
+            "timestamp": 1721465537998
+        },
+        "lastUpdate": 1721465537998,
+        "pay_limit_2024-07-23_61554160139365": 4,
+        "lastDailyClaim": 1722505410101,
+        "pay_limit_2024-07-25_61554160139365": 2,
+        "pay_limit_2024-07-26_61554160139365": 5,
+        "pay_limit_2024-08-01_61554160139365": 1
+    },
+    "61555650345033": {
+        "userID": "61555650345033",
+        "name": "ヤ　・ nara　zᶻ　︕",
+        "vanity": "61555650345033",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465538141
+        },
+        "data": {
+            "timestamp": 1721465538141
+        },
+        "lastUpdate": 1721465538141,
+        "pay_limit_2024-07-26_61555650345033": 2,
+        "lastDailyClaim": 1722002599315
+    },
+    "61556163766614": {
+        "userID": "61556163766614",
+        "name": "Ph Huyen Vi",
+        "vanity": "61556163766614",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465538267
+        },
+        "data": {
+            "timestamp": 1721465538267
+        },
+        "lastUpdate": 1721465538267
+    },
+    "61556484662026": {
+        "userID": "61556484662026",
+        "name": "Thanh Trà",
+        "vanity": "61556484662026",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465538388
+        },
+        "data": {
+            "timestamp": 1721465538388
+        },
+        "lastUpdate": 1721465538388
+    },
+    "61559634643272": {
+        "userID": "61559634643272",
+        "name": "Bui Đuc Anh",
+        "vanity": "61559634643272",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465538551
+        },
+        "data": {
+            "timestamp": 1721465538551
+        },
+        "lastUpdate": 1721465538551
+    },
+    "61559810488709": {
+        "userID": "61559810488709",
+        "name": "Ng Tuan",
+        "vanity": "61559810488709",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465538664
+        },
+        "data": {
+            "timestamp": 1721465538664
+        },
+        "lastUpdate": 1721465538664
+    },
+    "61560675908022": {
+        "userID": "61560675908022",
+        "name": "Duy Tuấn",
+        "vanity": "61560675908022",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465538970
+        },
+        "data": {
+            "timestamp": 1721465538970
+        },
+        "lastUpdate": 1721465538970
+    },
+    "61560980855148": {
+        "userID": "61560980855148",
+        "name": "Gia Han",
+        "vanity": "61560980855148",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465539087
+        },
+        "data": {
+            "timestamp": 1721465539087
+        },
+        "lastUpdate": 1721465539087
+    },
+    "61561052656904": {
+        "userID": "61561052656904",
+        "name": "Gia Bảo",
+        "vanity": "61561052656904",
+        "gender": 6,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465539211
+        },
+        "data": {
+            "timestamp": 1721465539211
+        },
+        "lastUpdate": 1721465539211
+    },
+    "100051123632162": {
+        "userID": "100051123632162",
+        "name": "Ng Hul Ko Bel",
+        "vanity": "anten.nguyen.1",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465539321
+        },
+        "data": {
+            "timestamp": 1721465539321
+        },
+        "lastUpdate": 1721465539321,
+        "lastDailyClaim": 1722487049792,
+        "pay_limit_2024-07-23_100051123632162": 1,
+        "pay_limit_2024-07-25_100051123632162": 4
+    },
+    "100052812437356": {
+        "userID": "100052812437356",
+        "name": "Tuấn Nguyễn",
+        "vanity": "100052812437356",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465539480
+        },
+        "data": {
+            "timestamp": 1721465539480
+        },
+        "lastUpdate": 1721465539480,
+        "pay_limit_2024-07-25_100052812437356": 1,
+        "lastDailyClaim": 1722484042299,
+        "pay_limit_2024-07-31_100052812437356": 7,
+        "pay_limit_2024-08-01_100052812437356": 14
+    },
+    "100056070558049": {
+        "userID": "100056070558049",
+        "name": "Thanh Thao",
+        "vanity": "Thanhthaooocute",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465539643
+        },
+        "data": {
+            "timestamp": 1721465539643
+        },
+        "lastUpdate": 1721465539643
+    },
+    "100065260538283": {
+        "userID": "100065260538283",
+        "name": "Khanh Nguyen",
+        "vanity": "feat.t9020918",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 1287,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465539795
+        },
+        "data": {
+            "timestamp": 1721465539795
+        },
+        "lastUpdate": 1721465539795,
+        "pay_limit_2024-07-26_100065260538283": 4
+    },
+    "100066979330518": {
+        "userID": "100066979330518",
+        "name": "Ngann Kim",
+        "vanity": "100066979330518",
+        "gender": 6,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465540146
+        },
+        "data": {
+            "timestamp": 1721465540146
+        },
+        "lastUpdate": 1721465540146,
+        "lastDailyClaim": 1721959568343,
+        "pay_limit_2024-07-26_100066979330518": 1
+    },
+    "100069530739819": {
+        "userID": "100069530739819",
+        "name": "Không Phải Long Tộc",
+        "vanity": "100069530739819",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465540270
+        },
+        "data": {
+            "timestamp": 1721465540270
+        },
+        "lastUpdate": 1721465540270
+    },
+    "100070131714390": {
+        "userID": "100070131714390",
+        "name": "Minh Đức",
+        "vanity": "100070131714390",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465540398
+        },
+        "data": {
+            "timestamp": 1721465540398
+        },
+        "lastUpdate": 1721465540398
+    },
+    "100074643521906": {
+        "userID": "100074643521906",
+        "name": "Hoa Như",
+        "vanity": "100074643521906",
+        "gender": 6,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465540508
+        },
+        "data": {
+            "timestamp": 1721465540508
+        },
+        "lastUpdate": 1721465540508
+    },
+    "100076321706493": {
+        "userID": "100076321706493",
+        "name": "Anh Quanh",
+        "vanity": "100076321706493",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465540881
+        },
+        "data": {
+            "timestamp": 1721465540881
+        },
+        "lastUpdate": 1721465540881
+    },
+    "100078995553752": {
+        "userID": "100078995553752",
+        "name": "Minh Lê",
+        "vanity": "100078995553752",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 15391,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465541252
+        },
+        "data": {
+            "timestamp": 1721465541252
+        },
+        "lastUpdate": 1721465541252,
+        "pay_limit_2024-07-26_100078995553752": 2,
+        "lastDailyClaim": 1722397346474,
+        "pay_limit_2024-07-31_100078995553752": 1
+    },
+    "100080316357262": {
+        "userID": "100080316357262",
+        "name": "Phương Ly",
+        "vanity": "100080316357262",
+        "gender": 6,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465541442
+        },
+        "data": {
+            "timestamp": 1721465541442
+        },
+        "lastUpdate": 1721465541442
+    },
+    "100094215592746": {
+        "userID": "100094215592746",
+        "name": "Anhh Quỳnhh Sia",
+        "vanity": "100094215592746",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465541684
+        },
+        "data": {
+            "timestamp": 1721465541684
+        },
+        "lastUpdate": 1721465541684
+    },
+    "100095073897995": {
+        "userID": "100095073897995",
+        "name": "Đặng Huế",
+        "vanity": "100095073897995",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465541840
+        },
+        "data": {
+            "timestamp": 1721465541840
+        },
+        "lastUpdate": 1721465541840
+    },
+    "100095506982239": {
+        "userID": "100095506982239",
+        "name": "Trieu Quoc Vuongg",
+        "vanity": "100095506982239",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 12975,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721465542098
+        },
+        "data": {
+            "timestamp": 1721465542098
+        },
+        "lastUpdate": 1721465542098,
+        "lastDailyClaim": 1722442901553,
+        "pay_limit_2024-07-25_100095506982239": 4,
+        "pay_limit_2024-07-31_100095506982239": 1
+    },
+    "100090077310656": {
+        "userID": "100090077310656",
+        "name": "Bảo Trần",
+        "vanity": "100090077310656",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721480546933
+        },
+        "data": {
+            "timestamp": 1721480546933
+        },
+        "lastUpdate": 1721480546933
+    },
+    "100082262284419": {
+        "userID": "100082262284419",
+        "name": "Bảo Trần",
+        "vanity": "100082262284419",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 14450,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721480749549
+        },
+        "data": {
+            "timestamp": 1721480749549
+        },
+        "lastUpdate": 1721480749549,
+        "pay_limit_2024-07-21_100082262284419": 4
+    },
+    "100056912411974": {
+        "userID": "100056912411974",
+        "name": "Thịnh ClownTn",
+        "vanity": "100056912411974",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 59853,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721484766306
+        },
+        "data": {
+            "timestamp": 1721484766306
+        },
+        "lastUpdate": 1721484766306
+    },
+    "100074209163577": {
+        "userID": "100074209163577",
+        "name": "Đức Bình Phạm",
+        "vanity": "Iove0712",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721563002057
+        },
+        "data": {
+            "timestamp": 1721563002057
+        },
+        "lastUpdate": 1721563002057
+    },
+    "100087776632352": {
+        "userID": "100087776632352",
+        "name": "Nam Em",
+        "vanity": "badbie.nz",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721563740979
+        },
+        "data": {
+            "timestamp": 1721563740979
+        },
+        "lastUpdate": 1721563740979
+    },
+    "61550331471452": {
+        "userID": "61550331471452",
+        "name": "Văn Quyến",
+        "vanity": "61550331471452",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721564724849
+        },
+        "data": {
+            "timestamp": 1721564724849
+        },
+        "lastUpdate": 1721564724849
+    },
+    "100081539351250": {
+        "userID": "100081539351250",
+        "name": "阮名仁",
+        "vanity": "nhancutiqua",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721565038291
+        },
+        "data": {
+            "timestamp": 1721565038291
+        },
+        "lastUpdate": 1721565038291
+    },
+    "100073764251719": {
+        "userID": "100073764251719",
+        "name": "Vương Phan",
+        "vanity": "vuongph2",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 27629,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721565143387
+        },
+        "data": {
+            "timestamp": 1721565143387
+        },
+        "lastUpdate": 1721565143387,
+        "pay_limit_2024-07-21_100073764251719": 1,
+        "lastDailyClaim": 1722439895930
+    },
+    "100071151188537": {
+        "userID": "100071151188537",
+        "name": "Ng Thao Ly",
+        "vanity": "haructe.083",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721565634667
+        },
+        "data": {
+            "timestamp": 1721565634667
+        },
+        "lastUpdate": 1721565634667,
+        "lastDailyClaim": 1721614256173,
+        "pay_limit_2024-07-21_100071151188537": 1,
+        "pay_limit_2024-07-22_100071151188537": 4,
+        "coins": 8
+    },
+    "100074080189706": {
+        "userID": "100074080189706",
+        "name": "Đần GCoding",
+        "vanity": "100074080189706",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721616962880
+        },
+        "data": {
+            "timestamp": 1721616962880
+        },
+        "lastUpdate": 1721616962880
+    },
+    "100068896216512": {
+        "userID": "100068896216512",
+        "name": "Nguyen Thao Anh",
+        "vanity": "100068896216512",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 758,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721619901912
+        },
+        "data": {
+            "timestamp": 1721619901912
+        },
+        "lastUpdate": 1721619901912,
+        "lastDailyClaim": 1721971241892,
+        "pay_limit_2024-07-22_100068896216512": 1
+    },
+    "100076336707709": {
+        "userID": "100076336707709",
+        "name": "Lê Minh Quân",
+        "vanity": "100076336707709",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721641901772
+        },
+        "data": {
+            "timestamp": 1721641901772
+        },
+        "lastUpdate": 1721641901772
+    },
+    "100034448352734": {
+        "userID": "100034448352734",
+        "name": "Văn Đoàn",
+        "vanity": "doan.black.9ahaaa",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721642137160
+        },
+        "data": {
+            "timestamp": 1721642137160
+        },
+        "lastUpdate": 1721642137160
+    },
+    "100084686265203": {
+        "userID": "100084686265203",
+        "name": "Thien Hao",
+        "vanity": "bolathienhaook",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721645766859
+        },
+        "data": {
+            "timestamp": 1721645766859
+        },
+        "lastUpdate": 1721645766859
+    },
+    "100085372179671": {
+        "userID": "100085372179671",
+        "name": " ＴＨÁＩ ĐÌＮＨ ＮＨẬＴ ✅",
+        "vanity": "100085372179671",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721647097886
+        },
+        "data": {
+            "timestamp": 1721647097886
+        },
+        "lastUpdate": 1721647097886
+    },
+    "100066205066027": {
+        "userID": "100066205066027",
+        "name": "Đăng Khoa",
+        "vanity": "DangKhoaStreamer",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 6002,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721649780624
+        },
+        "data": {
+            "timestamp": 1721649780624
+        },
+        "lastUpdate": 1721649780624,
+        "lastDailyClaim": 1722485678988
+    },
+    "61561682219028": {
+        "userID": "61561682219028",
+        "name": "Bích Ngọc",
+        "vanity": "61561682219028",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721655309604
+        },
+        "data": {
+            "timestamp": 1721655309604
+        },
+        "lastUpdate": 1721655309604
+    },
+    "100084833943559": {
+        "userID": "100084833943559",
+        "name": "Tuyết Trinh",
+        "vanity": "100084833943559",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721661781337
+        },
+        "data": {
+            "timestamp": 1721661781337
+        },
+        "lastUpdate": 1721661781337
+    },
+    "100007355263263": {
+        "userID": "100007355263263",
+        "name": "Ba Que Sỏ Lá",
+        "vanity": "100007355263263",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721693347201
+        },
+        "data": {
+            "timestamp": 1721693347201
+        },
+        "lastUpdate": 1721693347201
+    },
+    "61550684791693": {
+        "userID": "61550684791693",
+        "name": "Thu Huyền",
+        "vanity": "61550684791693",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721693995538
+        },
+        "data": {
+            "timestamp": 1721693995538
+        },
+        "lastUpdate": 1721693995538
+    },
+    "100089243296394": {
+        "userID": "100089243296394",
+        "name": "Mai Thanh",
+        "vanity": "100089243296394",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721710893234
+        },
+        "data": {
+            "timestamp": 1721710893234
+        },
+        "lastUpdate": 1721710893234
+    },
+    "100046559388837": {
+        "userID": "100046559388837",
+        "name": "Tấn Đạt Lý",
+        "vanity": "100046559388837",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721714159102
+        },
+        "data": {
+            "timestamp": 1721714159102
+        },
+        "lastUpdate": 1721714159102
+    },
+    "100092175175029": {
+        "userID": "100092175175029",
+        "name": "Quyieswda INp",
+        "vanity": "100092175175029",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721737038872
+        },
+        "data": {
+            "timestamp": 1721737038872
+        },
+        "lastUpdate": 1721737038872
+    },
+    "61553990525292": {
+        "userID": "61553990525292",
+        "name": "He Lo",
+        "vanity": "61553990525292",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721737128842
+        },
+        "data": {
+            "timestamp": 1721737128842
+        },
+        "lastUpdate": 1721737128842
+    },
+    "100083299398462": {
+        "userID": "100083299398462",
+        "name": "Người dùng Facebook",
+        "vanity": "100083299398462",
+        "gender": 7,
+        "isBirthday": false,
+        "money": 108,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721739616548
+        },
+        "data": {
+            "timestamp": 1721739616548
+        },
+        "lastUpdate": 1721739616548
+    },
+    "100054117424422": {
+        "userID": "100054117424422",
+        "name": "Anh Khôi Bùi",
+        "vanity": "ww.bak1703",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721744333739
+        },
+        "data": {
+            "timestamp": 1721744333739
+        },
+        "lastUpdate": 1721744333739
+    },
+    "61553267063826": {
+        "userID": "61553267063826",
+        "name": "Hâhhah Haha",
+        "vanity": "61553267063826",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721744629120
+        },
+        "data": {
+            "timestamp": 1721744629120
+        },
+        "lastUpdate": 1721744629120
+    },
+    "100089754041896": {
+        "userID": "100089754041896",
+        "name": "Thn Long",
+        "vanity": "100089754041896",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721745493134
+        },
+        "data": {
+            "timestamp": 1721745493134
+        },
+        "lastUpdate": 1721745493134,
+        "lastDailyClaim": 1722505421083
+    },
+    "100053332823920": {
+        "userID": "100053332823920",
+        "name": "Le Anh Duc",
+        "vanity": "ducnopro.2007",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721747458931
+        },
+        "data": {
+            "timestamp": 1721747458931
+        },
+        "lastUpdate": 1721747458931
+    },
+    "61563561560230": {
+        "userID": "61563561560230",
+        "name": "Lan Anh Do Ngoc",
+        "vanity": "61563561560230",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721793623935
+        },
+        "data": {
+            "timestamp": 1721793623935
+        },
+        "lastUpdate": 1721793623935
+    },
+    "61557312538962": {
+        "userID": "61557312538962",
+        "name": "Bui Hoai Anh",
+        "vanity": "61557312538962",
+        "gender": 6,
+        "isBirthday": false,
+        "money": 10434,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721794341981
+        },
+        "data": {
+            "timestamp": 1721794341981
+        },
+        "lastUpdate": 1721794341981
+    },
+    "100074057681048": {
+        "userID": "100074057681048",
+        "name": "Đặng Mạnh Dũng",
+        "vanity": "mdxautraiiiiiiii",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721799424561
+        },
+        "data": {
+            "timestamp": 1721799424561
+        },
+        "lastUpdate": 1721799424561
+    },
+    "100010011348985": {
+        "userID": "100010011348985",
+        "name": "Nguyễn Khánh Ly",
+        "vanity": "100010011348985",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721799520950
+        },
+        "data": {
+            "timestamp": 1721799520950
+        },
+        "lastUpdate": 1721799520950
+    },
+    "100092495266094": {
+        "userID": "100092495266094",
+        "name": "Tiến Khảii",
+        "vanity": "TkhaiiiZzZ",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721799779828
+        },
+        "data": {
+            "timestamp": 1721799779828
+        },
+        "lastUpdate": 1721799779828
+    },
+    "100068382888605": {
+        "userID": "100068382888605",
+        "name": "Pham Minh Dang",
+        "vanity": "pmdluvu",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 162,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721801246097
+        },
+        "data": {
+            "timestamp": 1721801246097
+        },
+        "lastUpdate": 1721801246097,
+        "lastDailyClaim": 1722491437933
+    },
+    "100000349406075": {
+        "userID": "100000349406075",
+        "name": "Nguyễn Đạt",
+        "vanity": "wZeni2912",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721802392183
+        },
+        "data": {
+            "timestamp": 1721802392183
+        },
+        "lastUpdate": 1721802392183
+    },
+    "100090594720619": {
+        "userID": "100090594720619",
+        "name": "Ngoc Anhh",
+        "vanity": "nna.17206",
+        "gender": 6,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721806081944
+        },
+        "data": {
+            "timestamp": 1721806081944
+        },
+        "lastUpdate": 1721806081944
+    },
+    "100038087425323": {
+        "userID": "100038087425323",
+        "name": "Lê Nữ Phú Quý",
+        "vanity": "100038087425323",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 194,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721822909243
+        },
+        "data": {
+            "timestamp": 1721822909243
+        },
+        "lastUpdate": 1721822909243,
+        "pay_limit_2024-08-01_100038087425323": 1
+    },
+    "100009743448838": {
+        "userID": "100009743448838",
+        "name": "Lê Thiên Tính",
+        "vanity": "100009743448838",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721876842827
+        },
+        "data": {
+            "timestamp": 1721876842827
+        },
+        "lastUpdate": 1721876842827
+    },
+    "100092286723844": {
+        "userID": "100092286723844",
+        "name": "ひ かる",
+        "vanity": "djtmechungmay.pc",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721878877706
+        },
+        "data": {
+            "timestamp": 1721878877706
+        },
+        "lastUpdate": 1721878877706
+    },
+    "100054441048630": {
+        "userID": "100054441048630",
+        "name": "Nguyễn My",
+        "vanity": "hihi.haha.8888",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721881126896
+        },
+        "data": {
+            "timestamp": 1721881126896
+        },
+        "lastUpdate": 1721881126896
+    },
+    "100065516520242": {
+        "userID": "100065516520242",
+        "name": "Mất Kết Nốii",
+        "vanity": "bongsociu0301",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721885085508
+        },
+        "data": {
+            "timestamp": 1721885085508
+        },
+        "lastUpdate": 1721885085508
+    },
+    "61555418572676": {
+        "userID": "61555418572676",
+        "name": "ߗƼ 丨メꪜ Οᜪ",
+        "vanity": "vuabattu.09",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721886143164
+        },
+        "data": {
+            "timestamp": 1721886143164
+        },
+        "lastUpdate": 1721886143164
+    },
+    "100022340611814": {
+        "userID": "100022340611814",
+        "name": "Thanh Bình",
+        "vanity": "100022340611814",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721886427515
+        },
+        "data": {
+            "timestamp": 1721886427515
+        },
+        "lastUpdate": 1721886427515
+    },
+    "61557757871713": {
+        "userID": "61557757871713",
+        "name": "Chocopie",
+        "vanity": "61557757871713",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721891904350
+        },
+        "data": {
+            "timestamp": 1721891904350
+        },
+        "lastUpdate": 1721891904350
+    },
+    "100001587130202": {
+        "userID": "100001587130202",
+        "name": "Mai Đăng Khoa",
+        "vanity": "kral.ask.75",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721891910176
+        },
+        "data": {
+            "timestamp": 1721891910176
+        },
+        "lastUpdate": 1721891910176
+    },
+    "100089415987625": {
+        "userID": "100089415987625",
+        "name": "Vũ Hoa",
+        "vanity": "100089415987625",
+        "gender": 6,
+        "isBirthday": false,
+        "money": 4486,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721894626939
+        },
+        "data": {
+            "timestamp": 1721894626939
+        },
+        "lastUpdate": 1721894626939,
+        "lastDailyClaim": 1722502578679,
+        "pay_limit_2024-08-01_100089415987625": 1
+    },
+    "100073282040723": {
+        "userID": "100073282040723",
+        "name": "ʚYến Nhiɞ",
+        "vanity": "100073282040723",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721894836385
+        },
+        "data": {
+            "timestamp": 1721894836385
+        },
+        "lastUpdate": 1721894836385
+    },
+    "61561239149547": {
+        "userID": "61561239149547",
+        "name": "Phạm Nguyễn Tấn Đạt",
+        "vanity": "61561239149547",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721895040367
+        },
+        "data": {
+            "timestamp": 1721895040367
+        },
+        "lastUpdate": 1721895040367
+    },
+    "61558592369431": {
+        "userID": "61558592369431",
+        "name": "Trần Trang",
+        "vanity": "61558592369431",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721896224198
+        },
+        "data": {
+            "timestamp": 1721896224198
+        },
+        "lastUpdate": 1721896224198
+    },
+    "61550787269191": {
+        "userID": "61550787269191",
+        "name": "Thuỷ Tiên",
+        "vanity": "61550787269191",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721896296463
+        },
+        "data": {
+            "timestamp": 1721896296463
+        },
+        "lastUpdate": 1721896296463
+    },
+    "100055509542981": {
+        "userID": "100055509542981",
+        "name": "Thành Tài",
+        "vanity": "100055509542981",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721898731261
+        },
+        "data": {
+            "timestamp": 1721898731261
+        },
+        "lastUpdate": 1721898731261
+    },
+    "100021307219678": {
+        "userID": "100021307219678",
+        "name": "Duy Đức",
+        "vanity": "gaming.duc.90",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721900200939
+        },
+        "data": {
+            "timestamp": 1721900200939
+        },
+        "lastUpdate": 1721900200939
+    },
+    "100082977854121": {
+        "userID": "100082977854121",
+        "name": "Đỗ Dương",
+        "vanity": "100082977854121",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721900238086
+        },
+        "data": {
+            "timestamp": 1721900238086
+        },
+        "lastUpdate": 1721900238086
+    },
+    "61554574577673": {
+        "userID": "61554574577673",
+        "name": "Bach Ly",
+        "vanity": "61554574577673",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721902073495
+        },
+        "data": {
+            "timestamp": 1721902073495
+        },
+        "lastUpdate": 1721902073495
+    },
+    "100081552811477": {
+        "userID": "100081552811477",
+        "name": "Huy Trương",
+        "vanity": "100081552811477",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 52,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721903919837
+        },
+        "data": {
+            "timestamp": 1721903919837
+        },
+        "lastUpdate": 1721903919837
+    },
+    "61560842207618": {
+        "userID": "61560842207618",
+        "name": "Danny Greenberg",
+        "vanity": "61560842207618",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721904234689
+        },
+        "data": {
+            "timestamp": 1721904234689
+        },
+        "lastUpdate": 1721904234689
+    },
+    "100015150195697": {
+        "userID": "100015150195697",
+        "name": "Mehtab Hsn",
+        "vanity": "100015150195697",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721904280270
+        },
+        "data": {
+            "timestamp": 1721904280270
+        },
+        "lastUpdate": 1721904280270
+    },
+    "100091903282800": {
+        "userID": "100091903282800",
+        "name": "Diep Chi",
+        "vanity": "100091903282800",
+        "gender": 6,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721907896918
+        },
+        "data": {
+            "timestamp": 1721907896918
+        },
+        "lastUpdate": 1721907896918
+    },
+    "100051062554774": {
+        "userID": "100051062554774",
+        "name": "Đồ Sát Bắc Kì",
+        "vanity": "100051062554774",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721908291358
+        },
+        "data": {
+            "timestamp": 1721908291358
+        },
+        "lastUpdate": 1721908291358,
+        "pay_limit_2024-07-25_100051062554774": 1,
+        "lastDailyClaim": 1722490553882,
+        "pay_limit_2024-08-01_100051062554774": 1
+    },
+    "61562498981682": {
+        "userID": "61562498981682",
+        "name": "Bot Depzai",
+        "vanity": "61562498981682",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721908473498
+        },
+        "data": {
+            "timestamp": 1721908473498
+        },
+        "lastUpdate": 1721908473498
+    },
+    "100093981620306": {
+        "userID": "100093981620306",
+        "name": "Minh Quân",
+        "vanity": "100093981620306",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 198,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721909758440
+        },
+        "data": {
+            "timestamp": 1721909758440
+        },
+        "lastUpdate": 1721909758440
+    },
+    "100026675011355": {
+        "userID": "100026675011355",
+        "name": "Đinh Tuấn Quang",
+        "vanity": "Dinh.Tuan.Quang.Profile",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721910939455
+        },
+        "data": {
+            "timestamp": 1721910939455
+        },
+        "lastUpdate": 1721910939455,
+        "lastDailyClaim": 1722494465070
+    },
+    "100085337480753": {
+        "userID": "100085337480753",
+        "name": "Triệu Việt",
+        "vanity": "100085337480753",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721911200508
+        },
+        "data": {
+            "timestamp": 1721911200508
+        },
+        "lastUpdate": 1721911200508
+    },
+    "100014034669306": {
+        "userID": "100014034669306",
+        "name": "Nguyen Thao Anh",
+        "vanity": "susu.lee.5011",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721911497956
+        },
+        "data": {
+            "timestamp": 1721911497956
+        },
+        "lastUpdate": 1721911497956
+    },
+    "100085236941097": {
+        "userID": "100085236941097",
+        "name": "Gia Hân",
+        "vanity": "100085236941097",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721914617543
+        },
+        "data": {
+            "timestamp": 1721914617543
+        },
+        "lastUpdate": 1721914617543
+    },
+    "100063992271308": {
+        "userID": "100063992271308",
+        "name": "Vân Long",
+        "vanity": "lucvanlong.luc.3",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721922790833
+        },
+        "data": {
+            "timestamp": 1721922790833
+        },
+        "lastUpdate": 1721922790833
+    },
+    "100055983181045": {
+        "userID": "100055983181045",
+        "name": "Phát Đức",
+        "vanity": "callmelaterrrrrrrr",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721957535347
+        },
+        "data": {
+            "timestamp": 1721957535347
+        },
+        "lastUpdate": 1721957535347
+    },
+    "100050545292753": {
+        "userID": "100050545292753",
+        "name": "Wesley Bass",
+        "vanity": "wesley.bass.3133",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721957957875
+        },
+        "data": {
+            "timestamp": 1721957957875
+        },
+        "lastUpdate": 1721957957875
+    },
+    "100076930803356": {
+        "userID": "100076930803356",
+        "name": "Nguyen Đức Anh",
+        "vanity": "100076930803356",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721960879089
+        },
+        "data": {
+            "timestamp": 1721960879089
+        },
+        "lastUpdate": 1721960879089
+    },
+    "61551592086371": {
+        "userID": "61551592086371",
+        "name": "Ngân Phan",
+        "vanity": "61551592086371",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721965591865
+        },
+        "data": {
+            "timestamp": 1721965591866
+        },
+        "lastUpdate": 1721965591866
+    },
+    "100072174175200": {
+        "userID": "100072174175200",
+        "name": "Minh Hưng",
+        "vanity": "minhhung531",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721967704961
+        },
+        "data": {
+            "timestamp": 1721967704961
+        },
+        "lastUpdate": 1721967704961
+    },
+    "100092272354095": {
+        "userID": "100092272354095",
+        "name": "Trần Hoàng Vũ",
+        "vanity": "100092272354095",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 396,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721973367891
+        },
+        "data": {
+            "timestamp": 1721973367891
+        },
+        "lastUpdate": 1721973367891,
+        "lastDailyClaim": 1721973393137
+    },
+    "100010189560818": {
+        "userID": "100010189560818",
+        "name": "Kuba Mazurek",
+        "vanity": "100010189560818",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721975951933
+        },
+        "data": {
+            "timestamp": 1721975951933
+        },
+        "lastUpdate": 1721975951933
+    },
+    "61553807062697": {
+        "userID": "61553807062697",
+        "name": "Gái Ritat",
+        "vanity": "61553807062697",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721977949818
+        },
+        "data": {
+            "timestamp": 1721977949818
+        },
+        "lastUpdate": 1721977949818,
+        "lastDailyClaim": 1722490453608,
+        "pay_limit_2024-07-26_61553807062697": 1
+    },
+    "100088945135812": {
+        "userID": "100088945135812",
+        "name": "Duy Anh",
+        "vanity": "100088945135812",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1721994991832
+        },
+        "data": {
+            "timestamp": 1721994991832
+        },
+        "lastUpdate": 1721994991832
+    },
+    "61554170342372": {
+        "userID": "61554170342372",
+        "name": "Nguyễn Thanh Trúc",
+        "vanity": "61554170342372",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722000925627
+        },
+        "data": {
+            "timestamp": 1722000925627
+        },
+        "lastUpdate": 1722000925627
+    },
+    "61560745416437": {
+        "userID": "61560745416437",
+        "name": "Khánh Trần",
+        "vanity": "61560745416437",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722001176759
+        },
+        "data": {
+            "timestamp": 1722001176759
+        },
+        "lastUpdate": 1722001176759,
+        "pay_limit_2024-07-26_61560745416437": 2,
+        "lastDailyClaim": 1722002075733
+    },
+    "100035301400405": {
+        "userID": "100035301400405",
+        "name": "Nguyễn Nhật Trường",
+        "vanity": "huyenmoaz",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722005667895
+        },
+        "data": {
+            "timestamp": 1722005667895
+        },
+        "lastUpdate": 1722005667895
+    },
+    "100072232653804": {
+        "userID": "100072232653804",
+        "name": "Ha Thi Nguyen",
+        "vanity": "100072232653804",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722008505386
+        },
+        "data": {
+            "timestamp": 1722008505386
+        },
+        "lastUpdate": 1722008505386
+    },
+    "61550323117959": {
+        "userID": "61550323117959",
+        "name": "𓆤 卐 𓏪𓉚 𝙎𝙖𝙙 𝙇𝙤̉ 𝙉𝙜𝙪𝙮𝙚̂̃𝙣 𝙓𝙪𝙖̂𝙣 𝙉𝙜𝙝𝙞̃𝙖 𝘽𝙤𝙮 𝙃𝙖̀𝙣 𝙌𝙪𝙤̂́𝙘 𓉛𓏪 卐 𖤍 𓂄𓆩𑁍𓆪𓂁 𒈒",
+        "vanity": "61550323117959",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722035781513
+        },
+        "data": {
+            "timestamp": 1722035781513
+        },
+        "lastUpdate": 1722035781513
+    },
+    "100029318140028": {
+        "userID": "100029318140028",
+        "name": "Trần Việt Cường",
+        "vanity": "tran.vietcuong.5891",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722326108431
+        },
+        "data": {
+            "timestamp": 1722326108431
+        },
+        "lastUpdate": 1722326108431
+    },
+    "100088045826539": {
+        "userID": "100088045826539",
+        "name": "Ổi Tó Dai",
+        "vanity": "100088045826539",
+        "gender": 6,
+        "isBirthday": false,
+        "money": 4059,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722326234598
+        },
+        "data": {
+            "timestamp": 1722326234598
+        },
+        "lastUpdate": 1722326234598
+    },
+    "100010093387857": {
+        "userID": "100010093387857",
+        "name": "Nguyễn Xuân Nguyên",
+        "vanity": "100010093387857",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722331736999
+        },
+        "data": {
+            "timestamp": 1722331736999
+        },
+        "lastUpdate": 1722331736999
+    },
+    "100074888445500": {
+        "userID": "100074888445500",
+        "name": "Huynh Van Nho",
+        "vanity": "vnho.dz",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 4580,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722333348415
+        },
+        "data": {
+            "timestamp": 1722333348415
+        },
+        "lastUpdate": 1722333348415,
+        "lastDailyClaim": 1722494835911,
+        "pay_limit_2024-08-01_100074888445500": 6
+    },
+    "100086717602991": {
+        "userID": "100086717602991",
+        "name": "Vu Ngoc Oanh",
+        "vanity": "lowkeyzZy",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722338933657
+        },
+        "data": {
+            "timestamp": 1722338933657
+        },
+        "lastUpdate": 1722338933657
+    },
+    "61561466007025": {
+        "userID": "61561466007025",
+        "name": "Lưu Thanh Nghĩa",
+        "vanity": "61561466007025",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722339964289
+        },
+        "data": {
+            "timestamp": 1722339964289
+        },
+        "lastUpdate": 1722339964289
+    },
+    "100066205372157": {
+        "userID": "100066205372157",
+        "name": "Trùm Sech",
+        "vanity": "100066205372157",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722341870165
+        },
+        "data": {
+            "timestamp": 1722341870165
+        },
+        "lastUpdate": 1722341870165
+    },
+    "100042750775325": {
+        "userID": "100042750775325",
+        "name": "Vày Lập Đức",
+        "vanity": "100042750775325",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722343682435
+        },
+        "data": {
+            "timestamp": 1722343682435
+        },
+        "lastUpdate": 1722343682435
+    },
+    "100081960652249": {
+        "userID": "100081960652249",
+        "name": "Lưu Loân",
+        "vanity": "100081960652249",
+        "gender": 6,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722348875925
+        },
+        "data": {
+            "timestamp": 1722348875925
+        },
+        "lastUpdate": 1722348875925
+    },
+    "100080842046249": {
+        "userID": "100080842046249",
+        "name": "Lê Bảo Nam",
+        "vanity": "100080842046249",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722349092745
+        },
+        "data": {
+            "timestamp": 1722349092745
+        },
+        "lastUpdate": 1722349092745
+    },
+    "100088635361482": {
+        "userID": "100088635361482",
+        "name": "Trịnh Hân",
+        "vanity": "100088635361482",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722349100207
+        },
+        "data": {
+            "timestamp": 1722349100207
+        },
+        "lastUpdate": 1722349100207
+    },
+    "100089814721274": {
+        "userID": "100089814721274",
+        "name": "Hoang Van Hai",
+        "vanity": "100089814721274",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722407414434
+        },
+        "data": {
+            "timestamp": 1722407414434
+        },
+        "lastUpdate": 1722407414434
+    },
+    "61553248747926": {
+        "userID": "61553248747926",
+        "name": "Nguyễn Hoàng Khang",
+        "vanity": "khangtapspam.cutis.lamne",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722407433970
+        },
+        "data": {
+            "timestamp": 1722407433970
+        },
+        "lastUpdate": 1722407433970
+    },
+    "61553726502140": {
+        "userID": "61553726502140",
+        "name": "𝓣𝓻𝓪̂̀𝓷 𝓓𝓾̃𝓷𝓰 𓆲",
+        "vanity": "dung.depzai",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722407673241
+        },
+        "data": {
+            "timestamp": 1722407673241
+        },
+        "lastUpdate": 1722407673241
+    },
+    "100090437681054": {
+        "userID": "100090437681054",
+        "name": "Hi Anh Em Và Tao Là Trùm Rename 𓂄𓆩ɴɢᴜʏᴇ̂̃ɴ ᴛᴀ̂́ɴ ɢɪᴀɴɢ𓆪𓂁 Tricker From Việt Nam 𓃟 Anh Tuyên Bố Cân Hết Mấy Thằng Tricker Lỏ 𓆣 Suốt Ngày Bờ Lóc Ép Năm Xong Cap Màn Edit Giật Giật 𖤐 Gặp Anh Thì Trốn Lẹ Không Anh Bờ Lóc Lại Cho Thì Mếu ⸙ Và Anh Có Ước Mơ Là Được Bóp Vú Mấy Chị Lớp Chín 𖤍 Thằng Nào Muốn Anh Bảo Kê Thì Mua Thẻ Mười Ka Garena Để Anh Còn Nạp Qui Phai 𑁍",
+        "vanity": "100090437681054",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722407886982
+        },
+        "data": {
+            "timestamp": 1722407886982
+        },
+        "lastUpdate": 1722407886982
+    },
+    "100087912465118": {
+        "userID": "100087912465118",
+        "name": "Yến Nhi",
+        "vanity": "100087912465118",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722408914422
+        },
+        "data": {
+            "timestamp": 1722408914422
+        },
+        "lastUpdate": 1722408914422
+    },
+    "100019406130247": {
+        "userID": "100019406130247",
+        "name": "Nguyễn Đình Phong",
+        "vanity": "soulguss",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722409049919
+        },
+        "data": {
+            "timestamp": 1722409049919
+        },
+        "lastUpdate": 1722409049919
+    },
+    "100091470766779": {
+        "userID": "100091470766779",
+        "name": "Tạ Đình Thuần",
+        "vanity": "tdthuan06",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722409753458
+        },
+        "data": {
+            "timestamp": 1722409753458
+        },
+        "lastUpdate": 1722409753458
+    },
+    "100074651275248": {
+        "userID": "100074651275248",
+        "name": "Tran Pham",
+        "vanity": "100074651275248",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722409884447
+        },
+        "data": {
+            "timestamp": 1722409884447
+        },
+        "lastUpdate": 1722409884447
+    },
+    "61554585031321": {
+        "userID": "61554585031321",
+        "name": "Hoang Van Hai",
+        "vanity": "61554585031321",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722410086982
+        },
+        "data": {
+            "timestamp": 1722410086982
+        },
+        "lastUpdate": 1722410086982
+    },
+    "100077320658965": {
+        "userID": "100077320658965",
+        "name": "Bao Chii",
+        "vanity": "Bchiicte",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722417588143
+        },
+        "data": {
+            "timestamp": 1722417588143
+        },
+        "lastUpdate": 1722417588143
+    },
+    "100069769561002": {
+        "userID": "100069769561002",
+        "name": "Tạ Duy Hải",
+        "vanity": "tttlhehe",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722424295294
+        },
+        "data": {
+            "timestamp": 1722424295294
+        },
+        "lastUpdate": 1722424295294
+    },
+    "100004693715709": {
+        "userID": "100004693715709",
+        "name": "Khôi Võ",
+        "vanity": "andi.sama.2508",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722432745429
+        },
+        "data": {
+            "timestamp": 1722432745429
+        },
+        "lastUpdate": 1722432745429
+    },
+    "100066994729720": {
+        "userID": "100066994729720",
+        "name": "Thuyết Mai",
+        "vanity": "nguyen.anh.hao190",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722432895919
+        },
+        "data": {
+            "timestamp": 1722432895919
+        },
+        "lastUpdate": 1722432895919
+    },
+    "100074000160504": {
+        "userID": "100074000160504",
+        "name": "Nguyễn Thúy Phương",
+        "vanity": "100074000160504",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722433459472
+        },
+        "data": {
+            "timestamp": 1722433459472
+        },
+        "lastUpdate": 1722433459472
+    },
+    "100081999275121": {
+        "userID": "100081999275121",
+        "name": "Trần Ngọc Đức",
+        "vanity": "NgocDuc555",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722435840024
+        },
+        "data": {
+            "timestamp": 1722435840024
+        },
+        "lastUpdate": 1722435840024
+    },
+    "100064490324076": {
+        "userID": "100064490324076",
+        "name": "Hieu Hoang",
+        "vanity": "hieugucci27",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722437367889
+        },
+        "data": {
+            "timestamp": 1722437367889
+        },
+        "lastUpdate": 1722437367889
+    },
+    "100090169426130": {
+        "userID": "100090169426130",
+        "name": "Thin Trang",
+        "vanity": "100090169426130",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 33567,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722439813970
+        },
+        "data": {
+            "timestamp": 1722439813970
+        },
+        "lastUpdate": 1722439813970,
+        "lastDailyClaim": 1722439906331
+    },
+    "100071639513410": {
+        "userID": "100071639513410",
+        "name": "Dra Chin",
+        "vanity": "100071639513410",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 100,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722442064130
+        },
+        "data": {
+            "timestamp": 1722442064130
+        },
+        "lastUpdate": 1722442064130,
+        "lastDailyClaim": 1722490478953
+    },
+    "100091665256039": {
+        "userID": "100091665256039",
+        "name": "Nhật Minh",
+        "vanity": "100091665256039",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 1045,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722444616586
+        },
+        "data": {
+            "timestamp": 1722444616586
+        },
+        "lastUpdate": 1722444616586,
+        "lastDailyClaim": 1722486078374
+    },
+    "100059928846147": {
+        "userID": "100059928846147",
+        "name": "Đức Đạt",
+        "vanity": "chiu.chungchong.3",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722444631915
+        },
+        "data": {
+            "timestamp": 1722444631915
+        },
+        "lastUpdate": 1722444631915
+    },
+    "100088683821862": {
+        "userID": "100088683821862",
+        "name": "Lê Thiên Kim",
+        "vanity": "100088683821862",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722489137453
+        },
+        "data": {
+            "timestamp": 1722489137453
+        },
+        "lastUpdate": 1722489137453
+    },
+    "100074174276727": {
+        "userID": "100074174276727",
+        "name": "Ng Chi",
+        "vanity": "100074174276727",
+        "gender": 6,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722491636066
+        },
+        "data": {
+            "timestamp": 1722491636066
+        },
+        "lastUpdate": 1722491636066
+    },
+    "100054379772671": {
+        "userID": "100054379772671",
+        "name": "Dąniel Rešl",
+        "vanity": "100054379772671",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722503441447
+        },
+        "data": {
+            "timestamp": 1722503441447
+        },
+        "lastUpdate": 1722503441447
+    },
+    "100084071517880": {
+        "userID": "100084071517880",
+        "name": "Yun Hwhzhi",
+        "vanity": "100084071517880",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 7632,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722503914663
+        },
+        "data": {
+            "timestamp": 1722503914663
+        },
+        "lastUpdate": 1722503914663,
+        "lastDailyClaim": 1722505436626
+    },
+    "100049589751759": {
+        "userID": "100049589751759",
+        "name": "Ngáo Bui",
+        "vanity": "100049589751759",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1722506767833
+        },
+        "data": {
+            "timestamp": 1722506767833
+        },
+        "lastUpdate": 1722506767833
+    }
+}
